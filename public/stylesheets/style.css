@@ -41,12 +41,12 @@ html {
 	font-size: 30px;
 	opacity: 0.6;
 	color: #fff;
-	font-family: Helvetica;
+	font-family: Proxima Nova;
 
 }
 
 .comingSoon {
-font-family: Helvetica;
+font-family: Proxima Nova;
  font-size: 15px;
  border-width: 2px;
  border-color: rgba(243, 245, 252, 0.5);
@@ -88,7 +88,7 @@ font-family: Helvetica;
 
 
 .moreInfoText {
-		font-family: Helvetica;
+		font-family: Proxima Nova;
  font-size:15px;
  /*font-family: proxima-nova, sans-serif;*/
  color: rgb(255, 255, 255);
