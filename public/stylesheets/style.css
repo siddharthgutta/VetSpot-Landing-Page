@@ -1,0 +1,108 @@
+body {
+	background: -webkit-linear-gradient(-50deg, #0b3512  0%, #4ab226  100%);
+	background: -moz-linear-gradient(-50deg, #0b3512  0%, #4ab226  100%);
+	background: -o-linear-gradient(-50deg, #0b3512  0%, #4ab226  100%);
+	background: -ms-linear-gradient(-50deg, #0b3512  0%, #4ab226  100%);
+	background-attachment: fixed;
+	height: 100%;
+	/*font-family: 'Proxima Nova';*/
+}
+    
+#logo {
+ 	width: 332px;
+	height: 83px;
+	margin-left: auto;
+    margin-right: auto;
+/*	position: absolute;
+*/	opacity:1;
+
+}
+
+#main{
+	position: relative;
+  top: 50%;
+  transform: translateY(50%);
+}
+
+html {
+	text-align: center;
+}
+
+.container {
+    width: 40%;
+    margin: 0 auto;
+}
+
+#description {
+	font-size: 30px;
+	opacity: 0.6;
+	color: #fff;
+	font-family: Helvetica;
+
+}
+
+.comingSoon {
+font-family: Helvetica;
+ font-size: 15px;
+ border-width: 2px;
+ border-color: rgba(243, 245, 252, 0.5);
+ border-style: solid;
+ color: #fff;
+ border-radius: 10px;
+ box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+/* position: absolute;
+ left: 413px;
+ top: 712px;
+ width: 275px;
+ height: 70px;
+ z-index: 8;
+*/
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  width: 11em;
+  height: 3em;
+  margin-right: 30px;
+}
+
+.moreInfo {
+ border-radius: 10px;
+  border-color: rgba(243, 245, 252, 0.5);
+
+ background-image: -moz-linear-gradient( 90deg, rgb(25,180,84) 0%, rgb(94,223,68) 100%);
+ background-image: -webkit-linear-gradient( 90deg, rgb(25,180,84) 0%, rgb(94,223,68) 100%);
+ background-image: -ms-linear-gradient( 90deg, rgb(25,180,84) 0%, rgb(94,223,68) 100%);
+ box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.6),inset 0px 1px 1px 0px rgba(255, 255, 255, 0.4);
+/* position: absolute;
+ left: 749px;
+ top: 712px;
+ width: 279px;
+ height: 74px;
+ z-index: 12;*/
+   width: 11em;
+  height: 3em;
+}
+
+
+.moreInfoText {
+		font-family: Helvetica;
+ font-size:15px;
+ /*font-family: proxima-nova, sans-serif;*/
+ color: rgb(255, 255, 255);
+ /*line-height: 1.2;*/
+ text-align: center;
+ text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
+ /*-moz-transform: matrix( 0.58686402509717,0,0,0.58686402509717,0,0);*/
+ /*-webkit-transform: matrix( 0.58686402509717,0,0,0.58686402509717,0,0);*/
+ /*-ms-transform: matrix( 0.58686402509717,0,0,0.58686402509717,0,0);*/
+/* position: absolute;
+ left: 729.402px;
+ top: 718.829px;
+ z-index: 13;*/
+}
+
+
+
+
+
+
+
