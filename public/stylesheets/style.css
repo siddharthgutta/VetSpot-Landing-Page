@@ -5,7 +5,7 @@ body {
 	background: -ms-linear-gradient(-50deg, #0b3512  0%, #4ab226  100%);
 	background-attachment: fixed;
 	height: 100%;
-	/*font-family: 'Proxima Nova';*/
+	font-family: proxima-nova;
 }
     
 #logo {
@@ -41,7 +41,7 @@ html {
 	font-size: 30px;
 	opacity: 0.6;
 	color: #fff;
-	font-family: Helvetica;
+	/*font-family: Helvetica;*/
 
 }
 
@@ -88,7 +88,7 @@ font-family: Helvetica;
 
 
 .moreInfoText {
-		font-family: Helvetica;
+		/*font-family: Helvetica;*/
  font-size:15px;
  /*font-family: proxima-nova, sans-serif;*/
  color: rgb(255, 255, 255);
